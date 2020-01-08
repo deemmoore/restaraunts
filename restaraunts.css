@@ -1,0 +1,7 @@
+html {
+    background: url("/AfterHolidayHtml/images/hamburger-and-fries-photo-2983101.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

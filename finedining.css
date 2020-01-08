@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+ul>li {
+    list-style-type: none;
+}
+
+.ogg {
+    margin-top: 15px;
+    
+}
+
+.ruth, .rodi {
+    margin-top: 20px;
+}
